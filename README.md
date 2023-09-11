@@ -6,7 +6,9 @@ This repository contains ESP32 firmware and a node client for a remote control c
 ## Future
 This project is still in development. The following features are planned:
 - [ ] Add support for multiple steering wheels
+- [ ] SDR support to reduce cost of hardware
 - [ ] Add support for multiple rc controllers
 - [ ] Use steering data to rotate camera for improved driving experience and visibility
 - [ ] Add support for multiple cameras
+- [ ] Add support for clutch simulation
 - [ ] Simulate gearing and calculate accurate speed
